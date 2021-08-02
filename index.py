@@ -6,7 +6,7 @@
 message = 'This is my first message'
 
 # Number where you want to send message
-numbers = '9137826518'
+numbers = '0000000000'
 
 # This Function send your message
 def send_text_message(message, numbers):
